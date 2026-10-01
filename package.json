@@ -1,0 +1,21 @@
+{
+  "name": "dhh-p-bloom-agent-skills",
+  "version": "0.1.0",
+  "description": "Agent skills for working with AI coding agents, inspired by the Rails World 2026 opening keynote",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erkamyaman/dhh-p-bloom-agent-skills.git"
+  },
+  "skills": [
+    "skills/outcome-prompting",
+    "skills/async-delegation",
+    "skills/black-box-review",
+    "skills/native-vs-web",
+    "skills/cli-for-your-app",
+    "skills/agent-evals",
+    "skills/overnight-optimization",
+    "skills/architecture-for-agents",
+    "skills/agent-security-basics"
+  ]
+}
