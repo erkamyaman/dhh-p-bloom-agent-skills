@@ -1,7 +1,7 @@
 {
   "name": "dhh-p-bloom-agent-skills",
   "version": "0.1.0",
-  "description": "Agent skills for working with AI coding agents, inspired by the Rails World 2026 opening keynote",
+  "description": "DHH's Rails World 2026 opening keynote, turned into agent skills for working with AI coding agents",
   "license": "MIT",
   "repository": {
     "type": "git",
