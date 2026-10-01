@@ -1,6 +1,6 @@
 # dhh-p-bloom-agent-skills
 
-Agent skills for working with AI coding agents, based on the points made by [@dhh](https://github.com/dhh) in his opening keynote talk at Rails World 2026 ([watch the talk](https://www.youtube.com/watch?v=vDjW_dRyKXY)).
+[@dhh](https://github.com/dhh)'s opening keynote talk at Rails World 2026 ([watch the talk](https://www.youtube.com/watch?v=vDjW_dRyKXY)), turned into agent skills for working with AI coding agents.
 
 Each skill is a folder with a `SKILL.md` (orientation) and a `references/` folder (focused topic files).
 
