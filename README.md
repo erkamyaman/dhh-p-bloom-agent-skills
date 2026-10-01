@@ -1,8 +1,8 @@
 # dhh-p-bloom-agent-skills
 
-Agent skills for working with AI coding agents, based on the points made in the opening keynote at Rails World 2026.
+Agent skills for working with AI coding agents, based on the points made by [@dhh](https://github.com/dhh) in his opening keynote talk at Rails World 2026 ([watch the talk](https://www.youtube.com/watch?v=vDjW_dRyKXY)).
 
-Each skill is a folder with a `SKILL.md` (orientation) and a `references/` folder (focused topic files), in the same layout as [ionic-capacitor-skills](https://github.com/erkamyaman/ionic-capacitor-skills).
+Each skill is a folder with a `SKILL.md` (orientation) and a `references/` folder (focused topic files).
 
 ## Install
 
@@ -26,7 +26,7 @@ npx skills add erkamyaman/dhh-p-bloom-agent-skills
 
 ## Source
 
-These skills are inspired by the opening keynote at Rails World 2026 by David Heinemeier Hansson (DHH):
+These skills are inspired by the opening keynote at Rails World 2026 by David Heinemeier Hansson ([@dhh](https://github.com/dhh)):
 https://www.youtube.com/watch?v=vDjW_dRyKXY
 
 They are our own interpretation of the points he made, written in our own words. They are not affiliated with or endorsed by DHH or 37signals.
